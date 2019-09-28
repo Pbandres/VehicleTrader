@@ -1,3 +1,13 @@
+/*****************************
+
+Form1 class
+
+*****************************/
+
+// Notes:
+  // Program created by pablo and jhoset.
+
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -121,7 +131,7 @@ namespace Vehicle__Trader
             if (iExit == DialogResult.Yes)
             {
                 Application.Exit();
-            }     
+            }
         }
 
         private void btnReset_Click(object sender, EventArgs e)
